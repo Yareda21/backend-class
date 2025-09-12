@@ -1,0 +1,23 @@
+#h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#response {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.answer {
+    width: 50%;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    color: red;
+    background-color: rgb(13, 116, 82);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
